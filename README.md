@@ -14,9 +14,7 @@ javascript:(function(){function h(s){for(var i=0,h=1;i<s.length;i++)h=Math.imul(
 
 ## [Yandex Images]( https://github.com/iZucken/bookmarkletCollection/blob/master/yandexImagesParser.js )
 
-To be dropped at any CORS compatible location to activate.
-
-Tries to get links to originals rather than yandex'es resize and whatever.
+To be dropped at any CORS compatible location to activate. It tries to get links to originals rather than yandex'es resize and whatever. Take notice though that it does not (and can not in this context) account for hotlink protection and the like - yandex getting the source does not automatically mean that you will be able to.
 
 Back at the time it was done like this to encounter minimal parsing obtrusion.
 
