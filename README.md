@@ -12,7 +12,7 @@ javascript:(function(){function h(s){for(var i=0,h=1;i<s.length;i++)h=Math.imul(
 ```
 
 
-## [Global HTML5 volume control]( https://github.com/iZucken/bookmarkletCollection/blob/master/yandexImagesParser.js )
+## [Yandex Images]( https://github.com/iZucken/bookmarkletCollection/blob/master/yandexImagesParser.js )
 
 To be dropped at any CORS compatible location to activate.
 Tries to get links to originals rather than yandex'es resize and whatever.
